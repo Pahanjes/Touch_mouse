@@ -1,8 +1,10 @@
-package ru.pahanjes.touchmouse;
+package ru.pahanjes.touchmouse.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import ru.pahanjes.touchmouse.R;
 
 public class MainActivity extends AppCompatActivity {
 
